@@ -1,0 +1,14 @@
+ html body{
+   
+    height:100%;
+}
+#clock{
+    color: black;
+    color: #fff;
+     font-family: 'Merriweather', serif;
+    font-size: 70px;
+    position: relative;
+    margin-top: 275px;
+    text-align: center;
+    
+}
